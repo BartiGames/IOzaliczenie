@@ -1,0 +1,10 @@
+C:\Users\usr\source\repos\bjarzynka\bjarzynka\bin\Debug\bjarzynka.exe.config
+C:\Users\usr\source\repos\bjarzynka\bjarzynka\bin\Debug\bjarzynka.exe
+C:\Users\usr\source\repos\bjarzynka\bjarzynka\bin\Debug\bjarzynka.pdb
+C:\Users\usr\source\repos\bjarzynka\bjarzynka\obj\Debug\bjarzynka.csprojAssemblyReference.cache
+C:\Users\usr\source\repos\bjarzynka\bjarzynka\obj\Debug\bjarzynka.Form1.resources
+C:\Users\usr\source\repos\bjarzynka\bjarzynka\obj\Debug\bjarzynka.Properties.Resources.resources
+C:\Users\usr\source\repos\bjarzynka\bjarzynka\obj\Debug\bjarzynka.csproj.GenerateResource.cache
+C:\Users\usr\source\repos\bjarzynka\bjarzynka\obj\Debug\bjarzynka.csproj.CoreCompileInputs.cache
+C:\Users\usr\source\repos\bjarzynka\bjarzynka\obj\Debug\bjarzynka.exe
+C:\Users\usr\source\repos\bjarzynka\bjarzynka\obj\Debug\bjarzynka.pdb
